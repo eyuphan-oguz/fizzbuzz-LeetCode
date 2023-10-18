@@ -1,2 +1,3 @@
 # fizzbuzz-LeetCode
-https://github.com/eyuphan-oguz/for-case/assets/75530935/4c54391c-ee52-49f5-ad22-ff9da90f5dec
+https://leetcode.com/problems/fizz-buzz/description/
+![leetcode-fizzbuzz](https://github.com/eyuphan-oguz/for-case/assets/75530935/a5cfc4f7-5cdc-437c-88c0-deaaa383f637)
